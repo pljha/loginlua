@@ -7,9 +7,9 @@ Telegram : @OfficialVignesh
 ##############################
 */
 $Uname = "script.xxx.lua";  //Script Name [Don't Change Name]
-$Url1 = "https://pljha.github.io/loginlua/Register.php"; //REGISTER.PHP
-$Url2 = "https://pljha.github.io/loginlua/User.php"; //USER.PHP
-$Url3 = "https://pljha.github.io/loginlua/ActionManager.php"; //ActionManager.php
+$Url1 = "https://pljha.github.io/loginlua.git/Register.php"; //REGISTER.PHP
+$Url2 = "https://pljha.github.io/loginlua.git/User.php"; //USER.PHP
+$Url3 = "https://pljha.github.io/loginlua.git/ActionManager.php"; //ActionManager.php
 
 
 
